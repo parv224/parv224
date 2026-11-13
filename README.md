@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Parv Prajapati
 
-### Data Analytics Professional | AI Agent Builder | Automation Enthusiast
+### Data Analytics | AI Agent Builder | AI Enthusiast
 
 ### Turning Data Into Insights. Building Intelligent Solutions.
 
@@ -11,13 +11,13 @@ I'm passionate about Data Analytics, Artificial Intelligence, and building pract
 
 <br/>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://www.linkedin.com/in/parv-prajapati/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-2563EB?style=for-the-badge" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/parv-prajapati/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/parv224">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
 </a>
 
@@ -27,7 +27,7 @@ I'm passionate about Data Analytics, Artificial Intelligence, and building pract
 
 # 🚀 About Me
 
-Hi, I'm **Parv Prajapati**, a Data Analytics professional with a growing interest in Artificial Intelligence, AI Agents, and workflow automation.
+Hi, I'm **Parv Prajapati**, a Data Analytics professional with a growing interest in Artificial Intelligence, AI Agents, and Exploring AI Tools.
 
 I enjoy working with data, discovering meaningful insights, and exploring how emerging technologies can improve the way people and businesses work.
 
@@ -55,7 +55,6 @@ I'm not just interested in understanding technology — I want to use it to buil
 | 📈 Data Visualization | Communicating insights through dashboards and reports |
 | 🤖 Artificial Intelligence | Generative AI and practical AI applications |
 | 🧠 AI Agents | Intelligent agents and autonomous workflows |
-| ⚙️ Automation | Improving processes through automation |
 | 💼 Freelancing | Delivering technology and analytics solutions |
 
 ---
@@ -80,10 +79,10 @@ My technical toolkit continues to evolve as I learn, experiment, and work on new
 
 ### 💻 Development & Tools
 - Git & GitHub
-- [Add programming languages]
-- [Add databases]
-- [Add analytics and visualization tools]
-- [Add AI frameworks and platforms]
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Flask), SQL, HTML5, CSS
+- PostgreSQL, MySQL
+- MS Excel, Power BI, Tableau, Plotly
+- Jupyter Notebook, Google Colab, LangChain
 
 ### 🤝 Professional Skills
 - Analytical Thinking
@@ -102,11 +101,19 @@ Here are some of the projects I'm working on and developing.
 
 ### 📊 Data Analytics Projects
 
-**01. [Project Name]**
-- Overview: [Describe the problem and objective.]
-- My Contribution: [Explain your work.]
-- Technologies: [Tools used.]
-- Results: [Add actual outcomes.]
+**01. Air Quality Insights: Data Analysis & Power BI Dashboard**
+- Overview: Analyzed air-quality data to explore pollution levels, understand AQI trends, identify pollutant patterns, and examine regional differences. The objective was to transform raw environmental data into meaningful insights through data analysis and interactive visualization.
+- My Contribution: Cleaned and prepared air-quality data using Power Query and Power BI.
+Analyzed AQI trends and pollutant patterns.
+Explored regional differences in air-quality levels.
+Developed interactive Power BI dashboards featuring KPIs, filters, charts, and comparative analysis.
+Presented data-driven insights through visual reports.
+- Technologies: Python
+Pandas
+SQL
+Microsoft Power BI
+Power Query
+- Results: Developed an interactive dashboard to explore air-quality trends, compare pollutant levels, and understand regional variations, making the data easier to interpret and analyze.
 - Repository: [GitHub Link]
 
 **02. [Project Name]**

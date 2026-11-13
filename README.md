@@ -102,31 +102,31 @@ Here are some of the projects I'm working on and developing.
 ### 📊 Data Analytics Projects
 
 **01. Air Quality Insights: Data Analysis & Power BI Dashboard**
-- Overview: [Analyzed air-quality data to explore pollution levels, understand AQI trends, identify pollutant patterns, and examine regional differences. The objective was to transform raw environmental data into meaningful insights through data analysis and interactive visualization.]
+- Overview: Analyzed air-quality data to explore pollution levels, understand AQI trends, identify pollutant patterns, and examine regional differences. The objective was to transform raw environmental data into meaningful insights through data analysis and interactive visualization.
 
-- My Contribution: [Cleaned and prepared air-quality data using Power Query and Power BI.
+- My Contribution: Cleaned and prepared air-quality data using Power Query and Power BI.
 Analyzed AQI trends and pollutant patterns.
 Explored regional differences in air-quality levels.
 Developed interactive Power BI dashboards featuring KPIs, filters, charts, and comparative analysis.
-Presented data-driven insights through visual reports.]
+Presented data-driven insights through visual reports.
 
-- Technologies: [Python, Pandas, PostgreSQL, Microsoft Power BI, Power Query.]
+- Technologies: Python, Pandas, PostgreSQL, Microsoft Power BI, Power Query.
   
-- Results: [Developed an interactive dashboard to explore air-quality trends, compare pollutant levels, and understand regional variations, making the data easier to interpret and analyze.]
+- Results: Developed an interactive dashboard to explore air-quality trends, compare pollutant levels, and understand regional variations, making the data easier to interpret and analyze.
   
 - Repository: [GitHub Link]
 
 **02. ASOS Fashion Retail: Product & Inventory Analysis**
-- Overview: [Analyzed ASOS fashion retail product data to explore brand performance, product availability, and inventory patterns. The project focused on identifying stock availability issues, calculating stockout rates, and estimating potential revenue exposure to highlight areas that may require inventory attention.]
+- Overview: Analyzed ASOS fashion retail product data to explore brand performance, product availability, and inventory patterns. The project focused on identifying stock availability issues, calculating stockout rates, and estimating potential revenue exposure to highlight areas that may require inventory attention.
 
-- Technologies: [Python, Pandas, Matplotlib, Seaborn.]
+- Technologies: Python, Pandas, Matplotlib, Seaborn.
   
-- My Contribution: [Cleaned and prepared product data using Python and Pandas.
+- My Contribution: Cleaned and prepared product data using Python and Pandas.
 Conducted exploratory data analysis (EDA) to understand product and brand-level patterns.
 Analyzed brand distribution and stock availability.
 Calculated stockout rates to identify potential inventory gaps.
 Estimated revenue exposure associated with unavailable products.
-Created visualizations to communicate findings and highlight brands that may require further inventory review.]
+Created visualizations to communicate findings and highlight brands that may require further inventory review.
 
 - Repository: [GitHub Link]
 
@@ -135,39 +135,11 @@ Created visualizations to communicate findings and highlight brands that may req
 **03. Voice-Based AI Agent | Real-Time Voice Interaction with LiveKit**
 - Overview: A voice-based AI agent designed to enable real-time conversational interaction through audio streaming. It uses LiveKit for real-time communication and integrates streaming LLM responses to support conversational experiences.
 
-- Technologies: [Python, LiveKit, Token-based authentication , Real-time audio streaming, Streaming LLM responses.]
+- Technologies: Python, LiveKit, Token-based authentication , Real-time audio streaming, Streaming LLM responses.
 
 - Repository: [https://github.com/parv224/Real-Time-Conversational-AI-Agent]
 
 *More projects and experiments will be added as I continue building.*
-
----
-
-# 💼 Professional Experience
-
-### Data Analytics Professional
-
-**Current Position:** Data Analytics
-
-**Organization:** [Company Name]
-
-**Duration:** [Joining Date – Present]
-
-Working in the field of data analytics, focusing on understanding data, analytical processes, and generating meaningful insights.
-
-**Responsibilities & Contributions**
-- [Add your actual responsibilities.]
-- [Add your analytical work.]
-- [Mention tools and technologies used.]
-- [Add measurable achievements and contributions.]
-
-### Previous Experience
-
-**[Previous Job Title]**
-
-- Organization: [Company Name]
-- Duration: [Employment Dates]
-- Responsibilities: [Describe your experience.]
 
 ---
 

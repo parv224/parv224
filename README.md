@@ -102,40 +102,42 @@ Here are some of the projects I'm working on and developing.
 ### 📊 Data Analytics Projects
 
 **01. Air Quality Insights: Data Analysis & Power BI Dashboard**
-- Overview: Analyzed air-quality data to explore pollution levels, understand AQI trends, identify pollutant patterns, and examine regional differences. The objective was to transform raw environmental data into meaningful insights through data analysis and interactive visualization.
-- My Contribution: Cleaned and prepared air-quality data using Power Query and Power BI.
+- Overview: [Analyzed air-quality data to explore pollution levels, understand AQI trends, identify pollutant patterns, and examine regional differences. The objective was to transform raw environmental data into meaningful insights through data analysis and interactive visualization.]
+
+- My Contribution: [Cleaned and prepared air-quality data using Power Query and Power BI.
 Analyzed AQI trends and pollutant patterns.
 Explored regional differences in air-quality levels.
 Developed interactive Power BI dashboards featuring KPIs, filters, charts, and comparative analysis.
-Presented data-driven insights through visual reports.
-- Technologies: Python
-Pandas
-SQL
-Microsoft Power BI
-Power Query
-- Results: Developed an interactive dashboard to explore air-quality trends, compare pollutant levels, and understand regional variations, making the data easier to interpret and analyze.
+Presented data-driven insights through visual reports.]
+
+- Technologies: [Python, Pandas, PostgreSQL, Microsoft Power BI, Power Query.]
+  
+- Results: [Developed an interactive dashboard to explore air-quality trends, compare pollutant levels, and understand regional variations, making the data easier to interpret and analyze.]
+  
 - Repository: [GitHub Link]
 
-**02. [Project Name]**
-- Overview: [Describe the project.]
-- Technologies: [Tools used.]
+**02. ASOS Fashion Retail: Product & Inventory Analysis**
+- Overview: [Analyzed ASOS fashion retail product data to explore brand performance, product availability, and inventory patterns. The project focused on identifying stock availability issues, calculating stockout rates, and estimating potential revenue exposure to highlight areas that may require inventory attention.]
+
+- Technologies: [Python, Pandas, Matplotlib, Seaborn.]
+  
+- My Contribution: [Cleaned and prepared product data using Python and Pandas.
+Conducted exploratory data analysis (EDA) to understand product and brand-level patterns.
+Analyzed brand distribution and stock availability.
+Calculated stockout rates to identify potential inventory gaps.
+Estimated revenue exposure associated with unavailable products.
+Created visualizations to communicate findings and highlight brands that may require further inventory review.]
+
 - Repository: [GitHub Link]
 
 ### 🤖 AI & Agent Development Projects
 
-**03. [AI Agent Project Name]**
-- Overview: [Describe what the agent does.]
-- Objective: [Problem it solves.]
-- Technologies: [AI tools and frameworks.]
-- Repository: [GitHub Link]
+**03. Voice-Based AI Agent | Real-Time Voice Interaction with LiveKit**
+- Overview: A voice-based AI agent designed to enable real-time conversational interaction through audio streaming. It uses LiveKit for real-time communication and integrates streaming LLM responses to support conversational experiences.
 
-### ⚙️ Automation Projects
+- Technologies: [Python, LiveKit, Token-based authentication , Real-time audio streaming, Streaming LLM responses.]
 
-**04. [Automation Project Name]**
-- Overview: [Describe the workflow.]
-- Objective: [What it automates.]
-- Technologies: [Tools used.]
-- Repository: [GitHub Link]
+- Repository: [https://github.com/parv224/Real-Time-Conversational-AI-Agent]
 
 *More projects and experiments will be added as I continue building.*
 
@@ -169,14 +171,6 @@ Working in the field of data analytics, focusing on understanding data, analytic
 
 ---
 
-# 🎓 Education & Learning Journey
-
-### Education
-
-- Qualification: [Your Degree / Qualification]
-- Institution: [College / University]
-- Graduation Year: [Year]
-
 ### 📚 Masterclasses & Professional Development
 
 Continuous learning is an important part of my professional journey.
@@ -192,8 +186,8 @@ Some learning areas and masterclasses I've explored include:
 
 **Certifications & Certificates**
 
-- [Certificate Name – Provider – Year]
-- [Certificate Name – Provider – Year]
+- [Deloitte Australia Data Analytics job simulation – Forage – June 2026]
+- [Data Analytics with AI – Infraone – July 2026]
 
 ---
 
@@ -214,11 +208,7 @@ I am interested in working on projects involving:
 
 <div align="center">
 
-<a href="YOUR_UPWORK_URL">
-<img src="https://img.shields.io/badge/Upwork-Available_for_Projects-14A800?style=for-the-badge&logo=upwork" />
-</a>
-
-<a href="YOUR_CONTRA_URL">
+<a href="https://contra.com/parv_prajapati_4uv91nh1?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=parv_prajapati_4uv91nh1">
 <img src="https://img.shields.io/badge/Contra-My_Freelance_Profile-111111?style=for-the-badge" />
 </a>
 
@@ -226,16 +216,6 @@ I am interested in working on projects involving:
 
 ---
 
-# 📄 Resume & Professional Profile
-
-Explore my professional background and experience.
-
-- 📑 [Download Latest Resume](YOUR_NEW_RESUME_URL)
-- 📂 [Previous Resume](YOUR_OLD_RESUME_URL)
-- 💼 [LinkedIn Profile](YOUR_LINKEDIN_URL)
-- 💻 [GitHub Repositories](YOUR_GITHUB_URL)
-
----
 
 # 🏆 Achievements & Highlights
 
@@ -255,14 +235,8 @@ I'm always interested in connecting with people, exploring new ideas, collaborat
 
 Whether it's Data Analytics, AI Agents, Automation, or an interesting technology project, let's connect!
 
-| Platform | Link |
-|---|---|
-| 📧 Email | YOUR_EMAIL |
-| 💼 LinkedIn | YOUR_LINKEDIN_URL |
-| 💻 GitHub | YOUR_GITHUB_URL |
-| 🌐 Portfolio | YOUR_PORTFOLIO_URL |
-| 🚀 Upwork | YOUR_UPWORK_URL |
-| 🎨 Contra | YOUR_CONTRA_URL |
+<a href="https://www.linkedin.com/in/parv-prajapati/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-2563EB?style=for-the-badge" />
 
 ---
 

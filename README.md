@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Parv Prajapati
 
-### Data Analytics | AI Agent Builder | AI Enthusiast
+### Data Analytics | AI Agents | AI Enthusiasts
 
 ### Turning Data Into Insights. Building Intelligent Solutions.
 

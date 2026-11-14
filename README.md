@@ -132,7 +132,7 @@ Created visualizations to communicate findings and highlight brands that may req
 
 ### 🤖 AI & Agent Development Projects
 
-**03. Voice-Based AI Agent | Real-Time Voice Interaction with LiveKit**
+**03. Real-Time Voice Interaction with LiveKit**
 - Overview: A voice-based AI agent designed to enable real-time conversational interaction through audio streaming. It uses LiveKit for real-time communication and integrates streaming LLM responses to support conversational experiences.
 
 - Technologies: Python, LiveKit, Token-based authentication , Real-time audio streaming, Streaming LLM responses.

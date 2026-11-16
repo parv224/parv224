@@ -42,7 +42,6 @@ I'm not just interested in understanding technology — I want to use it to buil
 - ⚡ Learning intelligent workflow automation.
 - 💡 Building practical, real-world technology projects.
 - 📚 Expanding my knowledge through masterclasses and continuous learning.
-- 🌍 Exploring freelance opportunities and collaborations.
 
 ---
 
@@ -55,7 +54,6 @@ I'm not just interested in understanding technology — I want to use it to buil
 | 📈 Data Visualization | Communicating insights through dashboards and reports |
 | 🤖 Artificial Intelligence | Generative AI and practical AI applications |
 | 🧠 AI Agents | Intelligent agents and autonomous workflows |
-| 💼 Freelancing | Delivering technology and analytics solutions |
 
 ---
 
@@ -174,19 +172,6 @@ I am interested in working on projects involving:
 - Data Reporting and Visualization
 - AI-powered Solutions
 - AI Agents
-- Workflow Automation
-
-### Find Me On Freelance Platforms
-
-<div align="center">
-
-<a href="https://contra.com/parv_prajapati_4uv91nh1?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=parv_prajapati_4uv91nh1">
-<img src="https://img.shields.io/badge/Contra-My_Freelance_Profile-111111?style=for-the-badge" />
-</a>
-
-</div>
-
----
 
 
 # 🏆 Achievements & Highlights
